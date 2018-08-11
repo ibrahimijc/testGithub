@@ -1,4 +1,7 @@
 
+
+
+console.log("Hahahahahaha");
 module.exports.fizzBuzz = function(input) { 
   
   if (typeof input !== 'number') 
