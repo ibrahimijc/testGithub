@@ -1,5 +1,5 @@
 
-console.log("Attribe walay pasay dedo");
+console.log("Attribe walay pasay mut dedo");
 
 
 module.exports.getCustomerSync = function(id) { 
