@@ -1,6 +1,6 @@
 
 module.exports.getCustomerSync = function(id) { 
-  console.log('Reading a customer from MongoDB...');
+  console.log('Hans raha hon main..');
   return { id: id, points: 11 };
 }
 
