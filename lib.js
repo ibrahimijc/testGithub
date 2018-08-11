@@ -1,6 +1,6 @@
 const db = require('./db');
 const mail = require('./mail');
-
+console.log("Kisi bh file m change");
 // Testing numbers 
 module.exports.absolute = function(number) {
  return number >=0 ? number : -number;
