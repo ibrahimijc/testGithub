@@ -1,4 +1,7 @@
 
+console.log("Attribe walay pasay dedo");
+
+
 module.exports.getCustomerSync = function(id) { 
   console.log('Hans raha hon main..');
   return { id: id, points: 11 };
