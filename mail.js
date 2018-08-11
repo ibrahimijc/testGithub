@@ -1,4 +1,3 @@
 module.exports.send = function(to, subject) {
-console.log("Leave FYP.")
-
+console.log("Piyaaara Parcham mera parcham Piyara Parcham");
 }
